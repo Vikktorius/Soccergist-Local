@@ -1,0 +1,19 @@
+.kits-bazaar-page {
+  width: 1512px;
+  height: 2317px;
+  background: #f8f8f8;
+}
+
+.all-jersey-card {
+  float: left;
+  width: 1509px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  margin-left: -89px;
+  gap: 18px;
+  position: absolute;
+  top: 580px;
+  left: 90px;
+}
